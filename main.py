@@ -1,0 +1,3 @@
+from testcase import *
+
+test()
